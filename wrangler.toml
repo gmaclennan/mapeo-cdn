@@ -1,0 +1,4 @@
+name = "mapeo-cdn"
+type = "webpack"
+private = false
+account_id = "058b57748d31e63e7bfdb0f690cb8ba7"
